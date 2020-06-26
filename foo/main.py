@@ -3,6 +3,7 @@ import mypkg.tools
 import mypkg.book
 import mypkg.customer
 
+
 book_list = []  # 存储图书信息字典，图书信息用字典存，再用列表存储字典
 customer_list = []   # 存储人员信息字典，人员信息用字典存，再用列表存储字典
 
