@@ -635,7 +635,6 @@ def calc_overdue(type, id, ISBN):
     cur = connection.cursor(cursor=pymysql.cursors.DictCursor)
     # 写sql语句
     sql = "select date from customer_book where id=%d and ISBN='%s'"
-    # 从custom表中取出用户id
     try:
         cur.execute(sql % (id, ISBN))
         info = cur.fetchall()
@@ -914,5 +913,5 @@ def main():
         else:
             print("请输入正确的数值！")
 
-
-main()
+if __name__ == '__main__':
+    main()
