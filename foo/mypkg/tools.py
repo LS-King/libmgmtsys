@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time        : 2020/6/26 22:21
 # @Author      : Peter
-# @Description : 
+# @Description : 用于检查、判断等工具函数
 # @File        : tools.py
 # @Software    : PyCharm
 import pymysql

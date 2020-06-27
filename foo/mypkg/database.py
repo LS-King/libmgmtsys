@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time        : 2020/6/26 22:20
 # @Author      : Peter
-# @Description : 
+# @Description : 数据库连接相关函数
 # @File        : database.py
 # @Software    : PyCharm
 import pymysql

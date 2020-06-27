@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time        : 2020/6/26 22:16
 # @Author      : Peter
-# @Description : 
+# @Description : 图书信息处理相关函数
 # @File        : book.py
 # @Software    : PyCharm
 import pymysql

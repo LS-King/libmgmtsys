@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time        : 2020/6/26 21:56
 # @Author      : Peter
-# @Description : 
+# @Description : 菜单打印相关函数
 # @File        : menu.py
 # @Software    : PyCharm
 

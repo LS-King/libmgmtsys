@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time        : 2020/6/26 22:20
 # @Author      : Peter
-# @Description : 
+# @Description : 用户信息及交互相关函数
 # @File        : customer.py
 # @Software    : PyCharm
 import pymysql
